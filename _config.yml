@@ -1,29 +1,14 @@
-name: "Walters' Tree"
-favicon: null
 layout_spectrum: 0.9693877
 typography_spectrum: 0.6954887
-title: "Walters' Tree | Ever-growing Knowledge and Inspiration"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.04277354
+  lightness: 0.9533323
+  brandStrength: 0.9198419
+  rhythmicContrast: 0.5747022
   brandColors:
-    - '#b5b5b7'
-    - '#598699'
-    - '#0e0e10'
-    - '#244d5f'
-    - '#ebf8fe'
-  brandStrength: 0
-  lightness: 0.9375
-  saturation: 0
-  rhythmicContrast: 0.5
-purpose: []
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: "Walters' Tree"
