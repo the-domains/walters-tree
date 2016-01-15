@@ -1,0 +1,28 @@
+name: "Walters' Tree"
+favicon: null
+layout_spectrum: 0.9693877
+typography_spectrum: 0.6954887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9198419
+  lightness: 0.9533323
+  saturation: 0.04277354
+  rhythmicContrast: 0.5747022
+purpose: []
