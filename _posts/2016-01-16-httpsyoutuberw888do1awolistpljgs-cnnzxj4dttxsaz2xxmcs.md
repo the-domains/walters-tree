@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/rW888do1awo'
-datePublished: '2016-01-16T21:28:13.964Z'
+datePublished: '2016-01-16T21:28:14.003Z'
 dateModified: '2016-01-16T21:16:14.313Z'
 author: []
 title: Malcolm Gladwell on Tokens and Pariahs
