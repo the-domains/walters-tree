@@ -36,8 +36,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/'
 title: Radical Candor - The Surprising Secret to Being a Good Boss
-datePublished: '2016-01-18T04:06:57.636Z'
-dateModified: '2016-01-17T00:40:20.434Z'
+datePublished: '2016-01-18T04:07:06.481Z'
+dateModified: '2016-01-18T04:06:57.636Z'
 sourcePath: _posts/2016-01-17-radical-candor-the-surprising-secret-to-being-a-good-boss.md
 published: true
 inFeed: true
