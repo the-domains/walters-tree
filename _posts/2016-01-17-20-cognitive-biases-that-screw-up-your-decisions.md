@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.businessinsider.com.au/cognitive-biases-that-affect-decisions-2015-8'
 title: 20 cognitive biases that screw up your decisions
-datePublished: '2016-01-17T00:50:09.299Z'
-dateModified: '2016-01-17T00:49:24.573Z'
+datePublished: '2016-01-18T04:05:25.027Z'
+dateModified: '2016-01-17T00:50:09.299Z'
 sourcePath: _posts/2016-01-17-20-cognitive-biases-that-screw-up-your-decisions.md
 published: true
 inFeed: true
